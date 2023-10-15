@@ -2,7 +2,7 @@
 - 👀 I’m interested in programação
 - 🌱 I’m currently learning phyton e javascript
 - 💞️ I’m looking to collaborate on colar em provas
-- 📫 How to reach me whatsapp,discord
+- 📫 How to reach me whatsapp e discord
   
 
 <!---
